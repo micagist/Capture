@@ -32,7 +32,7 @@ const ContactUs = () => {
         <Hide>
           <Social variants={titleAnim}>
             <Circle />
-            <h2>SLike us on social media.</h2>
+            <h2>Like us on social media.</h2>
           </Social>
         </Hide>
       </div>
